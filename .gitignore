@@ -28,4 +28,4 @@ dist/
 out/
 
 # Coverage reports
-coverage/
+coverage/".env" 
